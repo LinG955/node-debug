@@ -112,19 +112,19 @@ https://www.imooc.com/learn/1093
 
 ### 5.3 调试实例
 
-- 使用Git Bash创建nodejs-debug目录
+- 使用Git Bash创建node-debug目录
 
   ```bash
-  mkdir nodejs-debug
+  mkdir node-debug
   ```
 
 - Git Bash调用VS Code 打开目录
 
   ```bash
-  code nodejs-debug/
+  code node-debug/
   ```
 
-- 使用VS Code在nodejs-debug项目中添加app.js文件
+- 使用VS Code在node-debug项目中添加app.js文件
 
 - 初始化项目
 
